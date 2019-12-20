@@ -8,6 +8,10 @@ CREDITS
 --------
 - https://www.amazon.com/Competitive-Programming-3rd-Steven-Halim/dp/B00FG8MNN8
 
+COACH
+--------
+Prof Surender Baswana
+
 TEAMMATES
 --------
 - @ayush194
